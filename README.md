@@ -18,8 +18,8 @@ The analysis is based on:
 - PCA used as an interpretation tool.
 
 ## Contents
-- `data/` – raw and processed datasets
-- `notebooks/` – full analysis in a Jupyter Notebook
+- `data/` – raw and processed datasets - players_data_2024_2025.csv its the right one
+- `notebooks/` – full analysis in a Jupyter Notebook - similarity.ipynb its the right one
 - `figures/` – visual outputs used in the article
 
 ## How to reproduce
